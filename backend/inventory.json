@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Aged Brie",
+    "sellIn": 1,
+    "quality": 1
+  },
+  {
+    "name": "Backstage passes",
+    "sellIn": -1,
+    "quality": 2
+  },
+  {
+    "name": "Backstage passes",
+    "sellIn": 9,
+    "quality": 2
+  },
+  {
+    "name": "Sulfuras",
+    "sellIn": 2,
+    "quality": 2
+  },
+  {
+    "name": "Normal Item",
+    "sellIn": -1,
+    "quality": 55
+  },
+  {
+    "name": "Normal Item",
+    "sellIn": 2,
+    "quality": 2
+  },
+  {
+    "name": "INVALID ITEM",
+    "sellIn": 2,
+    "quality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": 2,
+    "quality": 2
+  },
+  {
+    "name": "Conjured",
+    "sellIn": -1,
+    "quality": 5
+  }
+]
